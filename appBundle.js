@@ -3,7 +3,7 @@
  * SDK version: 5.3.2
  * CLI version: 2.11.0
  * 
- * Generated: Wed, 14 Jun 2023 17:40:19 GMT
+ * Generated: Wed, 14 Jun 2023 17:48:01 GMT
  */
 
 var APP_diagnal_workshop = (function () {

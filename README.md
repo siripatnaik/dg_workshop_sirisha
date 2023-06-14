@@ -14,6 +14,9 @@ Two main components are used in this app development
 1. HomePage : this page consists of the Title, description of current focused content and the tray of available contents for the user
 2. ContentCard : This card component is for individual content (poster + title) which is reused for every content of the tray in HomePage
 
+#### Animation
+When user focus on each content card, the particular asset under focus is highlighted and the content details like the show title and its description are shown in HomePage with a fade-in effect
+
 ## LightningJS
 ### Getting started
 

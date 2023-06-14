@@ -2,6 +2,17 @@
 
 ## diagnal_workshop
 
+#### About this app
+
+This app consists of a home page where user can navigate through a list of contents using arrow keys (left/right arrow keys)
+User will be shown a timer which represents the current time in HH:MM 24hr format
+
+The fonts used in this app belong to Titillium Web family which are downloaded from google fonts
+
+#### Components
+Two main components are used in this app development
+1. HomePage : this page consists of the Title, description of current focused content and the tray of available contents for the user
+2. ContentCard : This card component is for individual content (poster + title) which is reused for every content of the tray in HomePage
 ### Getting started
 
 > Before you follow the steps below, make sure you have the
@@ -29,3 +40,4 @@ During development you can use the **watcher** functionality of the _Lightning-C
 #### Documentation
 
 Use `lng docs` to open up the Lightning-SDK documentation.
+

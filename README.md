@@ -13,6 +13,8 @@ The fonts used in this app belong to Titillium Web family which are downloaded f
 Two main components are used in this app development
 1. HomePage : this page consists of the Title, description of current focused content and the tray of available contents for the user
 2. ContentCard : This card component is for individual content (poster + title) which is reused for every content of the tray in HomePage
+
+## LightningJS
 ### Getting started
 
 > Before you follow the steps below, make sure you have the
